@@ -4,7 +4,7 @@ from my presentation at Java Usergroup Karlsruhe - 18.07.2018
 
 ## video 
 
-coming soon
+https://www.youtube.com/watch?v=BgJfnGrCQDE
 
 ---
 ## slides
