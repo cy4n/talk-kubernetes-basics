@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=BgJfnGrCQDE
 
 
 
-the resources can be deployed to demonstrate how to run a Hello SpringBoot 2 app [cy4n/hello](https://gitlab.com/cy4n/hello) in Kubernetes.
+the resources can be deployed to demonstrate how to run a Hello SpringBoot 2 app [cy4n/hello](https://github.com/cy4n/hello) in Kubernetes.
 
 It utilizes kubernetes resources like Secrets and ConfigMaps to provide basic Spring external configuration parameters
 
