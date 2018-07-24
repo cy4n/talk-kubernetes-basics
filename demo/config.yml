@@ -9,7 +9,7 @@ data:
       endpoints:
         web:
           exposure:
-            include: health,info,env,configprops
+            include: health,info,configprops
     spring:
       security:
         user:
