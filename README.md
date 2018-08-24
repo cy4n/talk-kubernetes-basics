@@ -1,19 +1,20 @@
 # Kubernetes Basics for Developers (german)
 
-from my presentation at Java Usergroup Karlsruhe - 18.07.2018
+from my presentation at 
 
-## video 
+Java Usergroup Karlsruhe 18.07.2018 + Mannheimer Java User Group 23.08.2018
+
+## video (recording from JUG Karlsruhe)
 
 https://www.youtube.com/watch?v=BgJfnGrCQDE
 
 ---
-## slides
+## slides more or less the same slides :-)
 
 [JUGKA-kubernetes-20180718.pdf (german)](https://github.com/cy4n/talk-kubernetes-basics/blob/master/JUGKA-kubernetes-20180718.pdf)
 
 ---
 ## demo resources 
-
 
 
 the resources can be deployed to demonstrate how to run a Hello SpringBoot 2 app [cy4n/hello](https://github.com/cy4n/hello) in Kubernetes.
@@ -33,6 +34,6 @@ then a more advanced config by running
 
 ---
 
-###### thank you Java Usergroup Karlsruhe for having my talk
+###### thank you JUG Karlsruhe and MAJUG for having my talk
 ###### thank you synyx for enabling me
 ###### thank you audience for the awesome feedback and discussion
